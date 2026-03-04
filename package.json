@@ -1,6 +1,6 @@
 {
   "name": "pumpfun-smart-contract-frontend-backend",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "This is a PumpFun token project built on the Solana blockchain. It is a Solana-based token with automatic reflection rewards and seamless wallet integration. Leveraging Solana\u2019s fast, low-cost network, it offers a fair, user-friendly, and scalable DEX experience with zero launch fees.",
   "main": "src/index.ts",
   "scripts": {
